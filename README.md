@@ -1,3 +1,5 @@
+![Otago Library logo](Library_Logo.jpg)
+
 # testgithub
 Learning about GitHub 18 December 2018
 
@@ -31,3 +33,5 @@ plot(rnorm(1,10), rnorm(1,10))
 |:------:|:--------|-------:|
 |content|content|content|
 |More stuff|More stuff|more stuff|
+
+
