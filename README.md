@@ -4,7 +4,7 @@ Learning about GitHub 18 December 2018
 
 # This is a header 1
 
-this is somem body text
+this is some body text
 
 ## this is a header 2
 
